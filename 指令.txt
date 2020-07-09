@@ -1,0 +1,25 @@
+node -v   查看版本号
+
+npm -v  
+
+git --version
+
+npm install --global vue-cli    全局安装 vue-cli
+
+vue init webpack ProjectName   创建项目
+
+git clone path     从码云下载到本地
+
+
+git status
+
+git add .
+
+git commit -m ' '
+
+git push
+
+
+
+npm install fastclick --save     安装第三方包
+
