@@ -23,3 +23,6 @@ git push
 
 npm install fastclick --save     安装第三方包
 
+npm install swiper vue-awesome-swiper@2.6.7 --save
+
+
