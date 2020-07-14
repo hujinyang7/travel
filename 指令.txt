@@ -17,8 +17,13 @@ git add .
 
 git commit -m ' '
 
-git push
+git push origin branch_name
 
+git switch master
+
+git merge origin/branch_name
+
+git push
 
 
 npm install fastclick --save     安装第三方包
