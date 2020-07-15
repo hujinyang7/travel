@@ -11,19 +11,19 @@ vue init webpack ProjectName   创建项目
 git clone path     从码云下载到本地
 
 
-git status
+先远程创建 index-ajax 分支
+git pull（拉取）
+git switch index-ajax(本地切换到index-ajax)
 
-git add .
+git add .   
+git commit -m 'finish ajax'
+git push origin index-ajax（提交本地 index-ajax 分支到远程 index-ajax 分支）
+git branch  
+git switch master（切换到本地 master 分支）
+git merge index-ajax（合并本地分支）
+git push master（提交master分支）
 
-git commit -m ' '
 
-git push origin branch_name
-
-git switch master
-
-git merge origin/branch_name
-
-git push origin branch_name
 
 
 
