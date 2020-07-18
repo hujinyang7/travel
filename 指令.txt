@@ -26,12 +26,14 @@ git push master（提交master分支）
 
 
 
-
-npm install fastclick --save     安装第三方包
+安装第三方包
+npm install fastclick --save     
 
 npm install swiper vue-awesome-swiper@2.6.7 --save
 
 谷歌添加 vue devtools 插件
 
 npm install axios --save
+
+npm install better-scroll --save（滑动回弹效果）
 
