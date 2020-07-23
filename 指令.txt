@@ -37,3 +37,5 @@ npm install axios --save
 
 npm install better-scroll --save（滑动回弹效果）
 
+npm install vuex --save（数据共享）
+
