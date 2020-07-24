@@ -38,6 +38,8 @@ module.exports = {
       '@': resolve('src'),
       // 给路径起别名，方便引用
       'styles':resolve('src/assets/styles'),
+      'common':resolve('src/common'),
+
 
     }
   },
