@@ -15,7 +15,7 @@ import DetailList from './components/List'
 import axios from 'axios'
 export default {
   name: 'Detail',
-  // name的作用：递归、取消缓存、Vue调试工具显示名称
+  // name的作用:递归、取消缓存、Vue调试工具显示名称
   components: {
     DetailBanner,
     DetailHeader,
