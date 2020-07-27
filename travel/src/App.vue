@@ -2,7 +2,7 @@
 
 <template>
   <div id="app">
-    <keep-alive>
+    <keep-alive exclude="Detail">
 <!--      直接从内存里面调取数据，不会重新发送ajax请求-->
       <router-view/>
     </keep-alive>
